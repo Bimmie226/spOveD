@@ -1,5 +1,7 @@
 # Ghi chú tài liệu về quá trình tự nghiên cứu và thực hành các kiến thức trong DevOps 
 
+## Danh sách dự án lab 
+
 | STT | Name Project       | Framework                      |
 | --- | ------------------ | ------------------------------ |
 | 1   | todolist           | Frontend - vue                 |
