@@ -1,4 +1,4 @@
-# Store clone project
+# Ghi chú tài liệu về quá trình tự nghiên cứu và thực hành các kiến thức trong DevOps 
 
 | STT | Name Project       | Framework                      |
 | --- | ------------------ | ------------------------------ |
@@ -32,4 +32,3 @@
 
 6. Kiểm tra hoạt động => check
 
-"# spOveD-" 
