@@ -6,7 +6,7 @@
 | --- | ------------------ | ------------------------------ |
 | 1   | todolist           | Frontend - vue                 |
 | 2   | visionui           | Frontend - react               |
-| 3   | shoeshop-ecommerce | Backend - springboot + mariadb |
+| 3   | shoeshop-ecommerce | Backend - springboot + MySQL   |
 
 ## Triển khai dự án
 1. Dự án nào thì có công cụ tương ứng
